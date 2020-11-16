@@ -1,0 +1,369 @@
+
+.body {
+  background-color: black;
+
+}
+
+
+
+.horizontal {
+  background-color: black;
+  border: 7px dotted;
+  color: white;
+  border-bottom: none;
+  width: 5%;
+  margin: 50px auto;
+
+
+}
+
+/* TITLE SECTION */
+.color-section {
+  background-color: black;
+  margin-bottom: 30px;
+}
+
+.navbar-brand {
+  font-family: 'Space Mono', monospace;
+  font-size: 70px;
+  margin: 20px;
+  text-shadow: 2px 1px 2px black, 25px 0 55px black, 5px 0 5px black;
+}
+
+.nav-link {
+  margin: 20px;
+}
+
+.webplanet {
+  width: 150px;
+}
+
+.heading1 {
+  text-align: center;
+  font-size: 50px;
+  position: relative;
+  color: white;
+
+}
+
+.headingpart {
+  text-align: center;
+  position: relative;
+
+}
+.backgroundimg {
+  position: relative; bottom: 30px;
+  text-align: center;
+  color: white;
+  clip-path: polygon(0 0, 100% 0, 100% 80%, 0 80%);
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 8px 8px white inset;
+
+
+}
+
+
+
+.titleheadings {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-shadow: 2px 1px 2px black, 25px 0 55px black, 5px 0 5px black;
+  position: relative; bottom: 330px;
+}
+
+/* ABOUT US */
+
+.aboutusheading {
+  position: relative; bottom: 220px;
+  color: white;
+
+}
+.heading2aboutus {
+  text-align: center;
+  font-size: 50px;
+  position: relative;
+
+}
+
+.paragraphaboutus {
+  font-size: 19px;
+  width: 60%;
+  text-align: center;
+  position: relative;
+
+  margin: auto;
+  padding: 1%
+}
+
+/* OUR CLIENTS */
+
+
+
+.heading2ourclients {
+  text-align: center;
+  font-size: 50px;
+  position: relative;
+
+  color: white;
+}
+
+.horizontalourclients {
+  background-color: black;
+  border: 7px dotted;
+  color: white;
+  border-bottom: none;
+  width: 5%;
+  margin: 50px auto;
+  position: relative;
+
+}
+
+.horizontalourclients2 {
+  background-color: black;
+  border: 7px dotted;
+  color: white;
+  border-bottom: none;
+  width: 5%;
+  margin: 50px auto;
+  position: relative;
+  top: 100px;
+}
+
+.clients {
+
+
+}
+
+.carousel {
+  margin-bottom: 4rem;
+}
+
+.carousel-item {
+  height: 32rem;
+}
+
+.carousel-item>img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 32rem;
+}
+
+.backgroundlogosexyfish {
+  position: relative; top: 140px;
+  width: 100%;
+  margin: auto;
+  display: block;
+  filter: blur(3px);
+}
+
+
+.logosexyfish {
+  position: relative; bottom: 190px;
+  margin: auto;
+  display: block;
+
+
+}
+
+
+
+
+.backgroundmayfair {
+  position: relative; top: 250px;
+  width: 100%;
+  margin: auto;
+  display: block;
+  filter: blur(3px);
+}
+
+.logomayfair {
+  position: relative; bottom: 140px;
+  margin: auto;
+  display: block;
+}
+
+
+
+.backgroundhovarda {
+  position: relative; top: 220px;
+  width: 100%;
+  margin: auto;
+  display: block;
+  filter: blur(3px);
+}
+
+.logohovarda {
+  position: relative; bottom: 150px;
+  margin: auto;
+  display: block;
+
+}
+
+
+.backgroundcasacruz {
+  position: relative; top: 370px;
+  width: 100%;
+  margin: auto;
+  display: block;
+  filter: blur(3px);
+}
+
+.logotcasacruz {
+  position: relative; bottom: 90px;
+  margin: auto;
+  display: block;
+}
+
+.clientsreview {
+  margin: auto;
+  display: block;
+  position: relative; bottom: 100px;
+  width: 40%;
+  text-shadow: 2px 1px 2px black, 25px 0 55px black, 5px 0 5px black;
+}
+
+.paragraphourclients {
+  color: white;
+  text-align: center;
+}
+
+.otherlogos {
+  width: 17%;
+  display: inline-block;
+  padding: 20px;
+  position: relative; left: 70px; top: 70px;
+
+}
+
+
+
+
+/* CONTACT US*/
+
+
+
+.contactusbody {
+  background-color: black;
+
+}
+
+.contactus {
+  text-align: center;
+  color: white;
+
+}
+
+.p3 {
+  font-size: 10px;
+  text-align: right;
+  position: relative; right: 10px;
+}
+
+.BUTTONMessageUs {
+position: relative; left: 610px;
+color: grey;
+font-size: 25px;
+
+}
+
+
+
+
+
+
+
+
+/* MESSAGE US*/
+
+
+
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+
+.containercontactus {
+  border-radius: 5px;
+  background-color: black;
+  padding: 10px;
+  text-align: center;
+}
+
+.rowcontactus {
+  text-align: center;
+  background-color: black;
+}
+
+.columncontactus {
+  float: right;
+  width: 50%;
+  margin-top: 6px;
+  padding: 20px;
+  background-color: black;
+}
+
+.map {
+  background-color: black;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column, input[type=submit] {
+    width: 100%;
+    margin-top: 0;
+  }
+}
+
+.mapcontactus {
+  float: left;
+  width: 40%;
+  position: relative; top: 80px;
+  position: relative; left: 20px;
+  background-color: black;
+
+
+}
+
+.headingmessageus {
+  text-align: center;
+  font-size: 50px;
+  position: relative;
+  color: white;
+}
+
+.paragraphmessageus {
+
+text-align: center;
+position: relative;
+color: white;
+}
